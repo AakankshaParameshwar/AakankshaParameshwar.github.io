@@ -1,0 +1,255 @@
+body,html {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway',sans-serif;
+	font-weight:400;
+	line-height: 150%;
+	font-size: 100%;
+	position: relative;
+	overflow:auto;
+}
+h1{
+	font-family: 'Open Sans',sans-serif;
+	font-weight:300;
+}
+h2{
+	font-family: 'Raleway',sans-serif;
+	font-weight:800;
+}
+h3{
+	font-family: 'Raleway',sans-serif;
+	font-weight:700;
+}
+h4{
+	font-family: 'Raleway',sans-serif;
+	font-weight:600;
+}
+.page{
+	width:80%;
+	margin:auto;
+	overflow:auto;
+}
+
+.no-bgc{
+	width:100%;
+	height:auto;
+	background-color:white;
+	display:block;
+	overflow:auto;
+	margin:0;
+	background:#F9BF3B;
+}
+
+.bgc {
+	width: 100%;
+	background: white;
+	height:auto;
+	display:block;
+	margin:0;
+	overflow:auto;
+}
+
+#header{
+	font-color:white;
+	width: 100%;
+	height: 30px;
+	position: relative;
+	padding: 10px;
+	background-color:black;
+	top:0;
+	z-index:500;
+}
+
+#name-data-holder{
+	top:50px;
+	position:relative;
+	margin:auto;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+#name{
+	margin-left:20px;
+	width:30%;
+	float:left;
+	height: 30px;
+}
+#name h2{
+	color:white;
+	margin:0;
+}
+
+#name-data-holder{
+	text-align:center;
+}
+#line{
+	border-bottom: 1px solid #D96B5F;
+	width:50%;
+	margin:auto;
+}
+
+#options{
+	width:32%;
+	#margin:auto;
+	#display: block;
+	float: right;
+	margin-right:20px;
+	margin-left:0;
+	margin-top:0;
+	margin-bottom:0;
+}
+#header h2, #header ul, #contact ul{
+	display:inline-block;
+}
+
+#remaining-page{
+	width:100%;
+	margin:0;	
+	position:relative;
+	display:block;
+}
+.tab{
+	display:inline-block;
+	margin-right:10px;
+	margin-left:10px;
+}
+	
+.tab a, .icon a{
+	text-decoration: none;
+	color: white;
+	font-family: 'Open Sans',sans-serif;
+}
+#resume-link{
+	text-decoration: none;
+	font-family: 'Open Sans',sans-serif;
+	color: #CF000F;
+	font-weight:700
+}
+#about-me{
+	width: 90%;
+	margin:auto;
+	#top:100px;
+}
+#about-me div,#about-me img{
+	display:inline-block;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+#about-me div{
+	width:60%;
+}
+#about-me img{
+	width: 20%;
+	height: auto;
+	float:right;
+	#border: 2px solid #34495E;
+}
+
+#about-me h4{
+	margin:0;
+}
+#projects{
+	width: 100%;
+	display: block;
+	margin:auto;
+}
+.text-begin{
+	text-align:center;
+}
+.grid{
+	overflow:auto;
+	width: 10%;
+	margin: auto;
+}
+
+.grid-item{
+	width: 400px;
+	height:auto;
+	margin-bottom: 20px;
+	#border:5px solid #22313F;
+
+}
+
+.grid-item img{
+	width:100%;
+	height:350px;
+	display:block;
+}
+
+.grid-item div{
+	width:100%;
+}
+
+.artwork-desc{
+	display: inline;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	background-color: black;
+	font-size: 180%;
+	font-weight: lighter;
+	color: white;
+	opacity: 0.8;
+	margin: auto;
+	text-align: center;
+}
+
+.project img{
+	cursor: pointer;
+	border: 2px solid #34495E;
+}
+.project-desc{
+	background: white;
+}
+.project{
+	#background: #34495E;
+	height: auto;
+}
+.project p, .project h4{
+	margin:0;
+	padding:10px;
+	color: black;
+}
+
+.artwork{
+	width: 250px;
+	height:auto;
+	margin-bottom: 20px;
+	#border:5px solid #22313F;
+}
+
+.artwork img{
+	cursor: pointer;
+	#border: 2px solid #34495E;
+}
+
+.project p, .project h4{
+	margin:0;
+	padding:10px;
+	color: black;
+}
+.icon{
+	display:inline-block;
+	margin-right:10px;
+	margin-left:10px;
+}
+#contact p, #contact ul{
+	display:inline-block;
+}
+.icon-img{
+	width:30px;
+	height:30px;
+}
+
+#contact{
+	background-color:black;
+}
+
+#contact p, #contact h3{
+	color:white;
+}
