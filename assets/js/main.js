@@ -1,9 +1,10 @@
 (function($) {
 $('.artwork-desc').hide("fast");
+$('.project-desc').hide("fast");
 $('#project-grid').masonry({
   // options
   itemSelector: '.project',
-  columnWidth: 50,
+  columnWidth: 60,
   isFitWidth: true,
   gutter:15
 });
@@ -11,7 +12,7 @@ $('#project-grid').masonry({
 $('#artwork-grid').masonry({
   // options
   itemSelector: '.artwork',
-  columnWidth: 70,
+  columnWidth: 50,
   isFitWidth: true,
   gutter: 5
 });
@@ -21,6 +22,11 @@ $(".grid-item").hover(function() {
         });
 		
 $(".project").hover(function() {
-            $(this).find('.artwork-desc').fadeToggle("fast");
+            $(this).find('.project-desc').fadeToggle("fast");
         });
+	
+$(".icon a").hover(function() {
+            $(this).css('opacity',1);
+        });
+		
 })(jQuery);
