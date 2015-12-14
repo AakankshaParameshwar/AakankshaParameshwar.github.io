@@ -4,7 +4,7 @@ $('.project-desc').hide("fast");
 $('#project-grid').masonry({
   // options
   itemSelector: '.project',
-  columnWidth: 60,
+  columnWidth: 50,
   isFitWidth: true,
   gutter:15
 });
@@ -12,7 +12,7 @@ $('#project-grid').masonry({
 $('#artwork-grid').masonry({
   // options
   itemSelector: '.artwork',
-  columnWidth: 50,
+  columnWidth: 170,
   isFitWidth: true,
   gutter: 5
 });
