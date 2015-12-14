@@ -12,7 +12,7 @@ $('#project-grid').masonry({
 $('#artwork-grid').masonry({
   // options
   itemSelector: '.artwork',
-  columnWidth: 170,
+  columnWidth: 200,
   isFitWidth: true,
   gutter: 5
 });
