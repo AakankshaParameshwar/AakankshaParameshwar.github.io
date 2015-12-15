@@ -22,6 +22,7 @@ $(".grid-item").hover(function() {
         });
 		
 //$(".project").hover(function() {
+//			$(this).find
 //            $(this).find('.project-desc').fadeToggle("fast");
 //        });
 	

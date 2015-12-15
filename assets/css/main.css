@@ -166,7 +166,7 @@ body,html {
 	width:100%;
 }
 
-.artwork-desc, .project-desc{
+.artwork-desc{
 	display: inline;
 	width: 100%;
 	position: absolute;
@@ -188,7 +188,7 @@ body,html {
 .project p, .project h4{
 	margin:0;
 	padding:10px;
-	color: white;
+	color: black;
 }
 
 .project img{file:///E:/codebase/AakankshaParameshwar.github.io/assets/images/cg-front.png
@@ -249,8 +249,4 @@ body,html {
 
 #contact p, #contact h3{
 	color:white;
-}
-
-.icons{
-	margin:0;
 }
