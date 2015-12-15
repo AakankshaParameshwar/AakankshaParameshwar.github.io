@@ -3,8 +3,8 @@ body,html {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	font-family: 'Raleway',sans-serif;
-	font-weight:400;
+	font-family: 'Open Sans',sans-serif;
+	font-weight:300;
 	line-height: 150%;
 	font-size: 100%;
 	position: relative;
@@ -249,4 +249,8 @@ body,html {
 
 #contact p, #contact h3{
 	color:white;
+}
+
+.icons{
+	margin:0;
 }

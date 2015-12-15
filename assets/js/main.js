@@ -1,6 +1,6 @@
 (function($) {
 $('.artwork-desc').hide("fast");
-$('.project-desc').hide("fast");
+//$('.project-desc').hide("fast");
 $('#project-grid').masonry({
   // options
   itemSelector: '.project',
@@ -21,9 +21,9 @@ $(".grid-item").hover(function() {
             $(this).find('.artwork-desc').fadeToggle("fast");
         });
 		
-$(".project").hover(function() {
-            $(this).find('.project-desc').fadeToggle("fast");
-        });
+//$(".project").hover(function() {
+//            $(this).find('.project-desc').fadeToggle("fast");
+//        });
 	
 $(".icon a").hover(function() {
             $(this).css('opacity',1);
