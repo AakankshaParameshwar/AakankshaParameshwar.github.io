@@ -106,10 +106,11 @@ $(function() {
 		namespace: "rslides"
 			});
 	
-	$(".icon").hover(
+	$(".artwork").hover(
 	function() {$(this).find('.work-desc').addClass('work-desc-hover')},
 	function() {$(this).find('.work-desc').removeClass('work-desc-hover')}
     );
+	
 	
 
 });
