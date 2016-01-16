@@ -27,14 +27,14 @@
 								<ul>
 									<li><a href="index.html">Home</a></li>
 									<li><a href="#one">About</a></li>
-									<li><a href="#abyeti">Proffesional Work</a></li>
-									<li><a href="#fyp">Projects</a></li>
+									<li><a href="#two">Professional Work</a></li>
+									<!--<li><a href="#fyp">Projects</a></li>
 									<ul id="sub-menu">
 										<li><a href="#fyp">> Face Recognition</a></li>
 										<li><a href="#cd-web-design">> Campus Diaries Project</a></li>
 										<li><a href="#textor">> Textor</a></li>
 										<li><a href="#logo-design">> Logo Design</a></li>
-									</ul>
+									</ul>-->
 									<li><a href="#three">Artworks</a></li>
 									<li><a href="#four">Dress Designs</a></li>
 									<li><a href="#footer">Contact</a></li>
@@ -134,8 +134,8 @@
 						<h2>Analysis and Design of Face Recognition Algorithms</h2>
 						<h5><i>Feb. 2014 - May. 2014</i></h5>
 						<p>This was a final year project implemented by a team of two. The idea behind this project was to provide the users a platform to test, analyse and comapre various face recognition algorithms based on how effectively each of them performs under the challenges of face recognition. The challenges being Occlusion, Expression, Illumination, Age and Pose.</p>
-						<p>We implemented four algorithms namely: Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), Scale Invariant Feature Transform (SIFT) and Line Edge Map (LEM) and developed two user interfaces: a GUI using Tkinter and a Wev UI using flask web framework, as the test tool. We tabulated our results and composed a survey paper based on the challeges (like Age, Pose)</p>
-						<p>We used ‘Yale database A’ and ‘ORL database’ for testing purposes and provided tests based on each challenge. We did so by categorizing the images in databases based on pose, illumination, and other factors. The algorithms used a set of images to obtain intermediate representations of facial features in a 2D matrix which trained them for recognizing faces in the testing set. We tabulated the results and documented our analysis through two survey papers on the challenges of face recognition.</p>
+						<p>We used ‘Yale database A’ and ‘ORL database’ for testing purposes and provided tests based on each challenge. We did so by categorizing the images in databases based on pose, illumination, and other factors. The algorithms used a set of images to obtain intermediate representations of facial features in a 2D matrix which trained them for recognizing faces in the testing set.</p>
+						<p>We implemented four algorithms namely: Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), Scale Invariant Feature Transform (SIFT) and Line Edge Map (LEM) and developed two user interfaces: a GUI using Tkinter and a Web UI using flask web framework, but since the latter was more appealing we ended up using it as our test tool. We tabulated the results and documented our analysis through two survey papers on the challenges of face recognition.</p>
 						<p> The code for the application is available at <span class='url'><a href='https://github.com/AakankshaParameshwar/facerec-FYP'>github</a></span>.</p>
 						<p class="technologies"><span class='headings'>Technologies Used:</span><br>
 							<span class="item">Languages:</span> Python, HTML, CSS, Javascript, bash</br> 
@@ -153,6 +153,7 @@
 						<p>My contributions for the web page include the header image slideshow feature and smooth transistions for viewing one staff information after another.</p>
 						<p>One of the biggest lessons I learnt during this project was that a clean UI with simple features is more beautiful and well accepted than a page with too much information and design.</p>
 						<p>The page is active at <a href="http://www.campusdiaries.com/about"> http://www.campusdiaries.com/about</a></p>
+						<p>We also developed a web page for a Drupal event at Campus Diaries but the cancellation of the event stalled our project.</p>
 						<p class = "technologies"> <span class='headings'>Technologies used:</span></br>
 							<span class="item">Languages:</span> HTML,5 CSS3, JavaScript</br>
 							<span class="item">Libraries:</span> Masonry, JQuery</br>
@@ -183,12 +184,14 @@
 					<div class="content">
 						<h2>TEXTOR</ br> A computer graphics mini project</h2>
 						<h5><i>Feb. 2013 - May. 2013</i></h5>
-						<p>My friend and I collaborated for this Computer Graphics mini project to design and develop a full-feldged text editor that had all the functions provided by a simple editor. Our main intention in implementing this project was to understand how simple editors actually worked and rendered the text.
+						<p>I collaborated with a friend for this Computer Graphics mini project to design and develop a full-feldged text editor that had all the functions provided by a simple editor. Our main intention in implementing this project was to understand how simple editors actually worked and rendered the text.
 						</p>
-						<p>This C++ and OpenGL editor supported the following functionalities: font change, font color change, background
+						<p>Textor supported the following functionalities: font change, font color change, background
 								wallpaper change, cut, copy, paste, delete, undo/redo, save/save As, open documents
 								previously created using textor
 						</p>
+						<p>For functions like ‘cut’ and ‘paste’ we had to take into account the width of a character in the fonts we supported, to make the selection of text work correctly, and pasting lines of text required proper calibration to push the previous text to subsequent lines.</p>
+						<p>We used OpenGL library to display text, menu’s, graphical wallpapers and to capture the user input by the position of the cursor at any given time. The logic for various functions was coded in C++. </p>
 						<p class = "technologies"><span class='headings'>
 							Technologies Used:</span> C++, OpenGL
 						</p>
@@ -234,20 +237,20 @@
 					<ul class="features">
 						<li class="icon artwork" id="artwork-1">
 							<a href="images/artwork-1-2-medium.jpg"><div class="work-desc">
-								<h4>Shanku design - 1 <span class="year">[2014]   </span></h4>
+								<h4>Disconnection <span class="year">[2014]   </span></h4>
 								<p>The middle piece of both art work is a shape that is used in Indian traditional Mehendi designs. Mehendi is a henna product used to color hair or draw designs on hand. The idea here was to design two analogous shapes in a totally different manner.These designs were made using gel pen and paint. The striking black piece is a stone from my old sandals.</p>
 							</div></a>
 						</li>
 						<li class="icon artwork" id="artwork-3">
 							<a href="images/artwork-3-medium.jpg"><div class="work-desc">
-								<h4>Peacock flower <span class="year">[2010]</span></h4>
-								<p>An illustration of a flower inspired by peacock feathers. Done using gel pen and broken bangles.</p>
+								<h4>Pea-Flower <span class="year">[2010]</span></h4>
+								<p>An illustration of a flower inspired by peacock feathers. Done using colored gel pen and broken bangles.</p>
 							</div></a>
 						</li>
 						<li class="icon artwork" id="artwork-4">
 							<a href="images/artwork-4-medium.jpg"><div class="work-desc">
-								<h4>3D flower <span class="year">[2015]</span></h4>
-								<p>An exploration of 3-D art by creating petals through stitching and colored stocking material to create 3D effect.</p>
+								<h4>Floral Enigma<span class="year">[2015]</span></h4>
+								<p>An exploration of 3-D art by creating petals through stitching and colored stocking material to bring the 3D effect on paper. Rest of the design was created using gel pens and paint.</p>
 							</div></a>
 						</li>
 						<li class="icon artwork" id="artwork-5">
@@ -259,25 +262,25 @@
 						<li class="icon artwork" id="artwork-6">
 							<a href="images/artwork-6-medium.jpg"><div class="work-desc">
 								<h4>Silent Night <span class="year">[2015]</span></h4>
-								<p>My version of the ‘Silent Night’, a painting by Marion Dutton, created while learning oil painting through her online tutorials.</p>
+								<p>My version of the ‘Silent Night’, an oil painting by Marion Dutton, created while learning oil painting through her online tutorials.</p>
 							</div>>/a>
 						</li>
 						<li class="icon artwork" id="artwork-2"">
 							<a href="images/artwork-16-medium.jpg"><div class="work-desc">
-								<h4>Polyethylene Tile painting frame <span class="year">[2010]</span></h4>
+								<h4>Polyethylene Frame <span class="year">[2010]</span></h4>
 								<p>In 2010, when we bought a new washing machine, it came with polyethylene sponges. My father was about to throw them away but I preserved it and created a tile painting frame with it. Since polyethylene was in a sponge form I figured that it would act like a cushion for the tile. So to hold it in place, I stitched the corners and used toothpicks to hold the edges.</p>
 							</div></a>
 						</li>
 						<li class="icon artwork " id="artwork-7">
 							<a href="images/artwork-7-medium.jpg"><div class="work-desc">
-								<h4>Vessels and boxes <span class="year">[2008]</span></h4>
+								<h4>Vessels and Boxes <span class="year">[2008]</span></h4>
 								<p>A still-life scene sketching.</p>
 							</div></a>
 						</li>
 						<li class="icon artwork " id="artwork-8">
 							<a href="images/artwork-8-medium.jpg"><div class="work-desc">
 								<h4>Geisha <span class="year">[2009]</span></h4>
-								<p>My rendition of the front page of the ‘Memoirs of Geisha’ book by Arthur Golden.</p>
+								<p>My rendition of the front page of the ‘Memoirs of Geisha’, a book by Arthur Golden.</p>
 							</div></a>
 						</li>
 						<li class="icon artwork" id="artwork-9">
@@ -293,8 +296,8 @@
 				<div class="inner">
 					<header class="major">
 						<h2>DRESS DESIGNS</h2>
-						<p>Here are some of clothes designed by me and my rough sketches. I had to bribe my sister <a href='https://www.facebook.com/anuha.parameshwar' target='_blank'>Anuha</a> to pose in those dresses :D</p> 
-						<p>For most of these dresses I have just laid out the external look of the dress .i.e what material to be used, cut of fabric, how should the sleeves and neck line look and so on. The credit patiently understanding my ideas and stitching them goes to my tailor Mohan, who owns a small shop at Commercial Street, Bangalore, INDIA.</p>
+						<p>Here are some of the clothes designed by me and a few of my rough sketches. I had to bribe my sister <a href='https://www.facebook.com/anuha.parameshwar' target='_blank'>Anuha</a> to pose like a model :D</p> 
+						<p>For most of these dresses I have just laid out the external look of the dress .i.e what material to be used, how should the sleeves and neck line look and so on. The credit for patiently understanding my ideas and putting them onto fabric, goes to my tailor Mohan, who owns a small shop at Commercial Street, Bangalore, INDIA.</p>
 						<p><i>Click on icon to view full screen image.</i></p>
 					</header>
 					<div class="dress-designs">
