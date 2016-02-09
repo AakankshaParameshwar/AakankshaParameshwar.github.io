@@ -2564,7 +2564,7 @@
 		}
 
 		.spotlight:nth-child(2) {
-			background-color: #4183d7;
+			background-color: #4183d7 /*#4B77BE*/;
 		}
 
 		.spotlight:nth-child(3) {
