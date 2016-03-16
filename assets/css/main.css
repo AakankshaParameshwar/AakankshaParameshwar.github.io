@@ -2564,7 +2564,7 @@
 		}
 
 		.spotlight:nth-child(2) {
-			background-color: #4183d7 /*#4B77BE*/;
+			background-color: rgba(22, 160, 133,1);
 		}
 
 		.spotlight:nth-child(3) {
@@ -2572,7 +2572,7 @@
 		}
 
 		.spotlight:nth-child(4) {
-			background-color: rgba(22, 160, 133,1);
+			background-color: rgba(22, 160, 133,1) /*#54378C*/;
 		}
 
 		.spotlight:nth-child(5) {
@@ -2674,7 +2674,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: /*#505393*/ #663399;
+			background-color: #54378C;
 			color: #c7ebe8;
 		}
 
@@ -3193,7 +3193,7 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #4183d7;
+		background: /*#4183d7*/ #54378C;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
@@ -3907,6 +3907,18 @@
 	#artwork-9{
 		background-image:url("../../images/artwork-9-small.jpg");
 	}
+	#artwork-14{
+		background-image:url("../../images/artwork-14-small.jpg");
+	}
+	#artwork-17{
+		background-image:url("../../images/artwork-17-small.jpg");
+	}
+	#artwork-11{
+		background-image:url("../../images/artwork-11-small.jpg");
+	}
+	#artwork-18{
+		background-image:url("../../images/assignment/house-small.jpg");
+	}
 	
 	/*#dd-1{
 		background-image:url("../../images/dd/dress-img-1.jpg");
@@ -3947,7 +3959,7 @@
 	#font-size: 180%;
 	font-weight: light;
 	color: white;
-	opacity: 0.8;
+	opacity: 0.9;
 	margin: auto;
 	text-align: center;
 	font-size:80%;
