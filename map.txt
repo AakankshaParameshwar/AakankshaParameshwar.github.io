@@ -1,0 +1,43 @@
+<img src="[Untitled]" width="1200" height="866" border="0" usemap="#map" />
+<img src="[full view-large] (imported)" width="1600" height="1155" border="0" usemap="#map" />
+<img src="[full view-large] (imported)" width="768" height="555" border="0" usemap="#map" />
+
+<map name="map1200">
+<area shape="poly" coords="309,94,539,212,540,629,438,663,376,635,376,227,311,95,312,93" target="aorbnb" href="airbnb" />
+<area shape="rect" coords="3,51,57,201" href="poshmark" />
+<area shape="rect" coords="56,211,297,377" href="taskrabbit" />
+<area shape="poly" coords="309,345,363,342,371,684,300,700,201,656,209,514,236,470,306,453" href="neighborgoods" />
+<area shape="poly" coords="1,525,93,553,120,630,215,678,220,700,89,762,1,763" href="lyft" />
+<area shape="poly" coords="562,449,603,459,654,576,708,523,753,535,829,528,825,651,552,687" href="dogvacay" />
+<area shape="poly" coords="822,767,841,663,916,695,945,644,1065,612,1139,650,1143,748,1144,835,869,813" href="relayrides" />
+<area shape="poly" coords="898,0,902,187,1024,196,1082,315,1113,358,1199,351,1198,1" href="connectivity" />
+<area shape="poly" coords="571,73,575,430,775,394,785,82" href="cowork" />
+<area shape="poly" coords="26,861,244,710,324,743,522,689,761,863,761,862" href="sharing" />
+</map>
+
+<map name="map1600">
+<area shape="rect" coords="3,69,75,263" href="poshmark" />
+<area shape="rect" coords="75,263,396,526" href="taskrabbit" />
+<area shape="poly" coords="411,123,719,285,720,837,582,883,501,849,504,300,505,299" href="airbnb" />
+<area shape="poly" coords="410,447,494,445,491,919,419,938,269,886,276,656,331,633,413,550" href="neighborgoods" />
+<area shape="poly" coords="2,702,131,741,162,836,290,897,291,929,124,1020,70,997,1,1042" href="lyft" />
+<area shape="poly" coords="748,599,815,601,834,734,1009,685,1117,719,1094,859,739,925" href="dogvacay" />
+<area shape="poly" coords="1101,1027,1103,987,1112,978,1123,881,1214,926,1259,858,1422,812,1429,821,1517,866,1543,866,1547,893,1541,1077,1490,1088,1442,1063,1380,1037,1261,1093,1213,1061,1158,1086" href="relayrides" />
+<area shape="poly" coords="746,107,765,93,1051,111,1032,529,773,580,774,581" href="cowork" />
+<area shape="poly" coords="1211,2,1213,260,1359,258,1456,471,1597,469,1599,1" href="conectivity" />
+<area shape="poly" coords="80,1098,325,944,429,991,720,913,929,1153,81,1152" href="sharing" />
+</map>
+
+<map name="map760">
+<area shape="rect" coords="2,32,37,129" href="poshmark" />
+<area shape="rect" coords="37,129,190,243" href="taskrabbit" />
+<area shape="poly" coords="196,229,240,218,238,443,203,453,124,422,136,316,192,289" href="neighborgoods" />
+<area shape="poly" coords="197,59,345,135,345,402,280,423,241,408,242,144" href="airbnb" />
+<area shape="poly" coords="358,51,367,46,504,53,495,254,371,278" href="cowork" />
+<area shape="poly" coords="356,288,383,293,404,354,482,333,538,348,500,424,358,442" href="dogvacay" />
+<area shape="poly" coords="591,0,589,128,656,124,700,224,712,229,769,224,767,0" href="connectivity" />
+<area shape="poly" coords="528,490,531,474,539,427,585,445,607,410,681,390,732,418,742,521,719,537,601,527,571,534" href="relayrides" />
+<area shape="poly" coords="0,337,65,355,78,402,137,434,141,448,1,518" href="lyft" />
+<area shape="poly" coords="5,553,165,457,206,475,319,448,447,556,448,551" href="sharing" />
+</map>
+
