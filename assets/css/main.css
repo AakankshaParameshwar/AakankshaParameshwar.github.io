@@ -59,8 +59,8 @@
 		background-image:url("../..images/design-3.jpg"); 
 	}
 	.my-image{
-		width: 20em;
-		height:20em;
+		width: 15em;
+		height:15em;
 		background-image: url("../../images/me-2.jpg");
 		background-size:cover;
 		border-radius: 50%;
@@ -3847,7 +3847,7 @@
 	}
 	
 	.about{
-		width: 60%;
+		width: 70%;
 		margin:auto;
 	}
 	.about-text p{
