@@ -92,26 +92,26 @@ $(function() {
 				});
 
 			}
-			
-     $(".rslides").responsiveSlides({         
-		auto: false,          
-		speed: 500,          
-		timeout: 4000,       
-		pager: false,        
-		nav: true,                
-		pause: true,        
+
+     $(".rslides").responsiveSlides({
+		auto: false,
+		speed: 500,
+		timeout: 4000,
+		pager: false,
+		nav: true,
+		pause: true,
 		pauseControls: true,
-		maxwidth: "",        
-		navContainer: "",  
+		maxwidth: "",
+		navContainer: "",
 		namespace: "rslides"
 			});
-	
+
 	$(".artwork").hover(
 	function() {$(this).find('.work-desc').addClass('work-desc-hover')},
 	function() {$(this).find('.work-desc').removeClass('work-desc-hover')}
     );
-	
-	
+
+
 
 });
 });
