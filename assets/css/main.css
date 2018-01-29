@@ -1476,7 +1476,7 @@
 		-ms-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		/*border-bottom: dotted red 1px;*/
-		color: #c51f1f /*#F5D76E*/;
+		color: #F5D76E;
 		text-decoration: none;
 	}
 
@@ -2606,7 +2606,7 @@
 			background-color: #212121;/*rgba(0, 0, 0, 0.09);*/
             color: #fff;
 		}
-        
+
         .spotlight:nth-child(2) h2, .spotlight:nth-child(2) i, .spotlight:nth-child(4) h2, .spotlight:nth-child(4) i, .spotlight:nth-child(6) h2, .spotlight:nth-child(6) i, .spotlight:nth-child(8) h2, .spotlight:nth-child(8) i, .spotlight:nth-child(10) h2, .spotlight:nth-child(10) i{
             color: #fff;
         }
@@ -3338,7 +3338,7 @@
 				line-height: inherit;
                 color: #fff;
 			}
-			
+
 			#header h1 a:hover{
 				 color: #21b2a6;
 			}
