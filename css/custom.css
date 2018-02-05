@@ -1,0 +1,42 @@
+/* your styles go here */
+
+.content-column{
+  padding:0;
+  margin:0;
+}
+
+.other-projects-text{
+
+  padding: 5em 2em 2em 2em;
+  width: 40%;
+  display:inline-block;
+  vertical-align: top;
+}
+
+.other-projects-img{
+  padding: 5em 2em 2em 2em;
+  margin:0;
+  width: 55%;
+  display:inline-block;
+  right:0;
+
+}
+
+.technologies{
+  padding:2%;
+  background-color:#B5F5F7;
+  color:black;
+  border-radius:10px;
+}
+
+.main-slider-2 {
+  vertical-align: middle;
+}
+
+.headings{
+  font-weight: bold;
+}
+
+.tech{
+  padding-right:1em;
+}

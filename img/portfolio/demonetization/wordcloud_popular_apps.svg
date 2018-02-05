@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1024px" height="768px" viewBox="0 0 1024 768">
+<defs>
+<style type="text/css"> @import url(http://fonts.googleapis.com/css?family=Pacifico:normal); </style>
+</defs>
+<clipPath id="cp1">
+<path d="M 0,0 L 1024,0 L1024,768 L 0,768 z M 0,0 L 1280,0 L 1280,960 L 0,960 z" fill-rule="evenodd">
+</path>
+</clipPath>
+<g clip-path="url(#cp1)">
+</g>
+<rect x="0" y="0" width="1280" height="960" opacity="1" fill="#fff" stroke="none">
+</rect>
+<text x="-353.39849853515625" y="18.123058799999995" style="font: normal 181.23058799999995px Pacifico" text-anchor="start" dy="71.63264347826086" opacity="1" fill="#32628c" stroke="none" transform="translate(512, 384)">whatsapp</text>
+<text x="-99.08981323242188" y="13.021753359999991" style="font: normal 130.21753359999997px Pacifico" text-anchor="start" dy="51.46938086956521" opacity="1" fill="#32628c" stroke="none" transform="translate(478, 248)">call</text>
+<text x="-156.6304931640625" y="8.99440696" style="font: normal 89.94406959999998px Pacifico" text-anchor="start" dy="35.55101565217391" opacity="1" fill="#03318c" stroke="none" transform="translate(512, 524)">facebook</text>
+<text x="-63.022544860839844" y="8.054692799999998" style="font: normal 80.54692799999998px Pacifico" text-anchor="start" dy="31.836730434782602" opacity="1" fill="#32628c" stroke="none" transform="translate(568, 322) rotate(-53.29153017594815)">sms</text>
+<text x="-119.77638244628906" y="7.651958159999996" style="font: normal 76.51958159999998px Pacifico" text-anchor="start" dy="30.244893913043473" opacity="1" fill="#021f59" stroke="none" transform="translate(714, 352)">youtube</text>
+<text x="-146.1571044921875" y="7.114978639999997" style="font: normal 71.14978639999998px Pacifico" text-anchor="start" dy="28.1224452173913" opacity="1" fill="#32628c" stroke="none" transform="translate(510, 604)">calculator</text>
+<text x="-85.41018676757812" y="6.712243999999998" style="font: normal 67.12243999999998px Pacifico" text-anchor="start" dy="26.53060869565217" opacity="1" fill="#32628c" stroke="none" transform="translate(378, 214)">paytm</text>
+<text x="-67.4169692993164" y="5.906774719999998" style="font: normal 59.067747199999985px Pacifico" text-anchor="start" dy="23.346935652173908" opacity="1" fill="#30588c" stroke="none" transform="translate(644, 246)">music</text>
+<text x="-63.18589782714844" y="5.504040079999996" style="font: normal 55.040400799999986px Pacifico" text-anchor="start" dy="21.75509913043478" opacity="1" fill="#30588c" stroke="none" transform="translate(504, 162) rotate(-34.262673805326436)">gmail</text>
+<text x="-57.42144012451172" y="5.369795199999999" style="font: normal 53.69795199999999px Pacifico" text-anchor="start" dy="21.224486956521737" opacity="1" fill="#30588c" stroke="none" transform="translate(420, 362)">radio</text>
+<text x="-85.35726165771484" y="4.832815679999996" style="font: normal 48.32815679999999px Pacifico" text-anchor="start" dy="19.102038260869563" opacity="1" fill="#30588c" stroke="none" transform="translate(634, 166)">shopping</text>
+<text x="-58.612152099609375" y="4.832815679999996" style="font: normal 48.32815679999999px Pacifico" text-anchor="start" dy="19.102038260869563" opacity="1" fill="#61a2ca" stroke="none" transform="translate(306, 512) rotate(17.549900584280223)">online</text>
+<text x="-29.595993041992188" y="4.832815679999996" style="font: normal 48.32815679999999px Pacifico" text-anchor="start" dy="19.102038260869563" opacity="1" fill="#30588c" stroke="none" transform="translate(472, 496) rotate(-7.769416887796338)">ola</text>
+<text x="-62.40632629394531" y="4.295836159999997" style="font: normal 42.95836159999999px Pacifico" text-anchor="start" dy="16.97958956521739" opacity="1" fill="#61a2ca" stroke="none" transform="translate(694, 302)">shareit</text>
+<text x="-38.63904571533203" y="4.027346399999999" style="font: normal 40.27346399999999px Pacifico" text-anchor="start" dy="15.918365217391301" opacity="1" fill="#32628c" stroke="none" transform="translate(456, 318)">news</text>
+<text x="-38.15137481689453" y="3.8931015199999983" style="font: normal 38.93101519999999px Pacifico" text-anchor="start" dy="15.387753043478257" opacity="1" fill="#61a2ca" stroke="none" transform="translate(578, 496)">bank</text>
+<text x="-66.94844818115234" y="3.2218771199999985" style="font: normal 32.21877119999999px Pacifico" text-anchor="start" dy="12.734692173913041" opacity="1" fill="#30588c" stroke="none" transform="translate(292, 286)">instagram</text>
+<text x="-26.916580200195312" y="2.953387359999999" style="font: normal 29.533873599999993px Pacifico" text-anchor="start" dy="11.673467826086954" opacity="1" fill="#61a2ca" stroke="none" transform="translate(398, 346)">uber</text>
+<text x="-31.915130615234375" y="2.1479180799999984" style="font: normal 21.479180799999995px Pacifico" text-anchor="start" dy="8.489794782608694" opacity="1" fill="#021f59" stroke="none" transform="translate(638, 334)">cricinfo</text>
+<text x="-24.107154846191406" y="1.745183439999999" style="font: normal 17.451834399999996px Pacifico" text-anchor="start" dy="6.897958260869564" opacity="1" fill="#30588c" stroke="none" transform="translate(438, 488)">hotsar</text>
+<text x="-18.579978942871094" y="1.3424487999999997" style="font: normal 13.424487999999997px Pacifico" text-anchor="start" dy="5.306121739130434" opacity="1" fill="#03318c" stroke="none" transform="translate(530, 422)">swiggy</text>
+<text x="-15.654411315917969" y="1.3424487999999997" style="font: normal 13.424487999999997px Pacifico" text-anchor="start" dy="5.306121739130434" opacity="1" fill="#03318c" stroke="none" transform="translate(522, 438)">skype</text>
+<text x="-9.034645080566406" y="1.0739590399999992" style="font: normal 10.739590399999997px Pacifico" text-anchor="start" dy="4.244897391304347" opacity="1" fill="#03318c" stroke="none" transform="translate(480, 354) rotate(89.6898272215816)">hike</text>
+<text x="-22.099319458007812" y="0.9397141599999994" style="font: normal 9.397141599999998px Pacifico" text-anchor="start" dy="3.714285217391304" opacity="1" fill="#30588c" stroke="none" transform="translate(628, 348)">camscanner</text>
+<text x="-17.103858947753906" y="0.9397141599999994" style="font: normal 9.397141599999998px Pacifico" text-anchor="start" dy="3.714285217391304" opacity="1" fill="#021f59" stroke="none" transform="translate(580, 288)">mobiquik</text>
+<text x="-13.878402709960938" y="0.9397141599999994" style="font: normal 9.397141599999998px Pacifico" text-anchor="start" dy="3.714285217391304" opacity="1" fill="#32628c" stroke="none" transform="translate(576, 488)">zomato</text>
+<text x="-4.78973388671875" y="0.8054692799999996" style="font: normal 8.054692799999998px Pacifico" text-anchor="start" dy="3.1836730434782603" opacity="1" fill="#61a2ca" stroke="none" transform="translate(534, 386)">etc</text>
+<text x="-7.1582489013671875" y="0.5369795199999996" style="font: normal 5.369795199999999px Pacifico" text-anchor="start" dy="2.1224486956521735" opacity="1" fill="#61a2ca" stroke="none" transform="translate(466, 426)">calling</text>
+<text x="-3.3687515258789062" y="0.4027346399999998" style="font: normal 4.027346399999999px Pacifico" text-anchor="start" dy="1.5918365217391302" opacity="1" fill="#30588c" stroke="none" transform="translate(512, 368)">uses</text>
+<text x="-2.6129913330078125" y="0.4027346399999998" style="font: normal 4.027346399999999px Pacifico" text-anchor="start" dy="1.5918365217391302" opacity="1" fill="#32628c" stroke="none" transform="translate(516, 360)">use</text>
+<text x="-4.229026794433594" y="0.2684897599999998" style="font: normal 2.6848975999999993px Pacifico" text-anchor="start" dy="1.0612243478260868" opacity="1" fill="#03318c" stroke="none" transform="translate(542, 374) rotate(-17.616273933121825)">hotstar</text>
+<text x="-1.428436279296875" y="0.2684897599999998" style="font: normal 2.6848975999999993px Pacifico" text-anchor="start" dy="1.0612243478260868" opacity="1" fill="#32628c" stroke="none" transform="translate(480, 368) rotate(-80.32254909738828)">toi</text>
+<text x="-1.8250732421875" y="0.2684897599999998" style="font: normal 2.6848975999999993px Pacifico" text-anchor="start" dy="1.0612243478260868" opacity="1" fill="#30588c" stroke="none" transform="translate(510, 378)">son</text>
+<text x="-2.9573516845703125" y="0.1342448799999999" style="font: normal 1.3424487999999997px Pacifico" text-anchor="start" dy="0.5306121739130434" opacity="1" fill="#03318c" stroke="none" transform="translate(546, 384)">mindicator</text>
+<text x="-2.3282241821289062" y="0.1342448799999999" style="font: normal 1.3424487999999997px Pacifico" text-anchor="start" dy="0.5306121739130434" opacity="1" fill="#61a2ca" stroke="none" transform="translate(512, 416)">samsung</text>
+<text x="-2.2344284057617188" y="0.1342448799999999" style="font: normal 1.3424487999999997px Pacifico" text-anchor="start" dy="0.5306121739130434" opacity="1" fill="#30588c" stroke="none" transform="translate(548, 392)">browser</text>
+<text x="-2.0173492431640625" y="0.1342448799999999" style="font: normal 1.3424487999999997px Pacifico" text-anchor="start" dy="0.5306121739130434" opacity="1" fill="#61a2ca" stroke="none" transform="translate(516, 352)">airport</text>
+<text x="-2.1138229370117188" y="0.1342448799999999" style="font: normal 1.3424487999999997px Pacifico" text-anchor="start" dy="0.5306121739130434" opacity="1" fill="#61a2ca" stroke="none" transform="translate(550, 398) rotate(41.37864411864569)">charged</text>
+<text x="-2.0863571166992188" y="0.1342448799999999" style="font: normal 1.3424487999999997px Pacifico" text-anchor="start" dy="0.5306121739130434" opacity="1" fill="#021f59" stroke="none" transform="translate(542, 378) rotate(-19.923145961211297)">stopped</text>
+<text x="-1.6381301879882812" y="0.1342448799999999" style="font: normal 1.3424487999999997px Pacifico" text-anchor="start" dy="0.5306121739130434" opacity="1" fill="#30588c" stroke="none" transform="translate(548, 404)">videos</text>
+<text x="-1.393585205078125" y="0.1342448799999999" style="font: normal 1.3424487999999997px Pacifico" text-anchor="start" dy="0.5306121739130434" opacity="1" fill="#03318c" stroke="none" transform="translate(520, 416)">using</text>
+<text x="-1.654876708984375" y="0.1342448799999999" style="font: normal 1.3424487999999997px Pacifico" text-anchor="start" dy="0.5306121739130434" opacity="1" fill="#03318c" stroke="none" transform="translate(476, 388)">games</text>
+<text x="-1.1858901977539062" y="0.1342448799999999" style="font: normal 1.3424487999999997px Pacifico" text-anchor="start" dy="0.5306121739130434" opacity="1" fill="#021f59" stroke="none" transform="translate(544, 412)">used</text>
+<text x="-1.4465103149414062" y="0.1342448799999999" style="font: normal 1.3424487999999997px Pacifico" text-anchor="start" dy="0.5306121739130434" opacity="1" fill="#61a2ca" stroke="none" transform="translate(508, 420)">many</text>
+<text x="-1.2582473754882812" y="0.1342448799999999" style="font: normal 1.3424487999999997px Pacifico" text-anchor="start" dy="0.5306121739130434" opacity="1" fill="#30588c" stroke="none" transform="translate(510, 374) rotate(73.31483606519294)">drop</text>
+<text x="-1.2562332153320312" y="0.1342448799999999" style="font: normal 1.3424487999999997px Pacifico" text-anchor="start" dy="0.5306121739130434" opacity="1" fill="#021f59" stroke="none" transform="translate(526, 390) rotate(38.60947148038633)">dont</text>
+<text x="-0.8140335083007812" y="0.1342448799999999" style="font: normal 1.3424487999999997px Pacifico" text-anchor="start" dy="0.5306121739130434" opacity="1" fill="#30588c" stroke="none" transform="translate(542, 390) rotate(36.456474646749406)">lot</text>
+<text x="-0.9433441162109375" y="0.1342448799999999" style="font: normal 1.3424487999999997px Pacifico" text-anchor="start" dy="0.5306121739130434" opacity="1" fill="#32628c" stroke="none" transform="translate(540, 416)">app</text>
+</svg>

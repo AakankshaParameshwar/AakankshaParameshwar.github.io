@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1024px" height="768px" viewBox="0 0 1024 768">
+<clipPath id="cp2">
+<path d="M 0,0 L 1024,0 L1024,768 L 0,768 z M 0,0 L 1280,0 L 1280,960 L 0,960 z" fill-rule="evenodd">
+</path>
+</clipPath>
+<g clip-path="url(#cp2)">
+</g>
+<rect x="0" y="0" width="1280" height="960" opacity="1" fill="#091c2b" stroke="none">
+</rect>
+<text x="-359.66302490234375" y="17.911093199999996" style="font: normal 179.11093200000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="70.7948347826087" opacity="1" fill="#8793dd" stroke="none" transform="translate(512, 382)">Amazon</text>
+<text x="-315.970703125" y="16.80887208" style="font: normal 168.0887208px Verdana,Geneva,sans-serif" text-anchor="start" dy="66.4382295652174" opacity="1" fill="#8793dd" stroke="none" transform="translate(478, 238) rotate(12)">Flipkart</text>
+<text x="-162.59060668945312" y="9.36887952" style="font: normal 93.68879520000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="37.03114434782609" opacity="1" fill="#edecf2" stroke="none" transform="translate(530, 494)">Myntra</text>
+<text x="-117.08365631103516" y="6.61332672" style="font: normal 66.1332672px Verdana,Geneva,sans-serif" text-anchor="start" dy="26.13963130434783" opacity="1" fill="#3669a2" stroke="none" transform="translate(530, 562) rotate(-12)">Jabong</text>
+<text x="-17.229293823242188" y="1.3777764000000001" style="font: normal 13.777764000000001px Verdana,Geneva,sans-serif" text-anchor="start" dy="5.445756521739131" opacity="1" fill="#c1d4f2" stroke="none" transform="translate(504, 362)">EBay</text>
+<text x="-27.340103149414062" y="1.1022211200000003" style="font: normal 11.022211200000001px Verdana,Geneva,sans-serif" text-anchor="start" dy="4.356605217391305" opacity="1" fill="#6d98ba" stroke="none" transform="translate(484, 398) rotate(-12)">BigBasket</text>
+<text x="-22.521377563476562" y="0.82666584" style="font: normal 8.2666584px Verdana,Geneva,sans-serif" text-anchor="start" dy="3.2674539130434788" opacity="1" fill="#8793dd" stroke="none" transform="translate(500, 350)">Remember</text>
+<text x="-10.944076538085938" y="0.82666584" style="font: normal 8.2666584px Verdana,Geneva,sans-serif" text-anchor="start" dy="3.2674539130434788" opacity="1" fill="#3669a2" stroke="none" transform="translate(532, 366)">know</text>
+<text x="-21.304115295410156" y="0.5511105600000001" style="font: normal 5.5111056000000005px Verdana,Geneva,sans-serif" text-anchor="start" dy="2.1783026086956525" opacity="1" fill="#edecf2" stroke="none" transform="translate(496, 342)">ShopClues.com</text>
+<text x="-12.766059875488281" y="0.5511105600000001" style="font: normal 5.5111056000000005px Verdana,Geneva,sans-serif" text-anchor="start" dy="2.1783026086956525" opacity="1" fill="#3669a2" stroke="none" transform="translate(540, 354)">Snapdeal</text>
+<text x="-7.00054931640625" y="0.27555528000000007" style="font: normal 2.7555528000000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="1.0891513043478263" opacity="1" fill="#3669a2" stroke="none" transform="translate(540, 376) rotate(12)">Shopclues</text>
+<text x="-6.97369384765625" y="0.27555528000000007" style="font: normal 2.7555528000000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="1.0891513043478263" opacity="1" fill="#3669a2" stroke="none" transform="translate(494, 390)">Homestop</text>
+<text x="-6.57421875" y="0.27555528000000007" style="font: normal 2.7555528000000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="1.0891513043478263" opacity="1" fill="#6d98ba" stroke="none" transform="translate(476, 368) rotate(-12)">SnapDeal</text>
+<text x="-5.0958251953125" y="0.27555528000000007" style="font: normal 2.7555528000000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="1.0891513043478263" opacity="1" fill="#edecf2" stroke="none" transform="translate(518, 400) rotate(12)">brother</text>
+<text x="-4.8863525390625" y="0.27555528000000007" style="font: normal 2.7555528000000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="1.0891513043478263" opacity="1" fill="#3669a2" stroke="none" transform="translate(546, 384) rotate(12)">Aberuk</text>
+<text x="-4.0726318359375" y="0.27555528000000007" style="font: normal 2.7555528000000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="1.0891513043478263" opacity="1" fill="#6d98ba" stroke="none" transform="translate(550, 392) rotate(12)">prices</text>
+<text x="-4.14849853515625" y="0.27555528000000007" style="font: normal 2.7555528000000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="1.0891513043478263" opacity="1" fill="#8793dd" stroke="none" transform="translate(512, 358)">online</text>
+<text x="-3.9356689453125" y="0.27555528000000007" style="font: normal 2.7555528000000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="1.0891513043478263" opacity="1" fill="#6d98ba" stroke="none" transform="translate(474, 360) rotate(12)">check</text>
+<text x="-3.95849609375" y="0.27555528000000007" style="font: normal 2.7555528000000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="1.0891513043478263" opacity="1" fill="#3669a2" stroke="none" transform="translate(526, 344) rotate(-12)">heard</text>
+<text x="-3.17095947265625" y="0.27555528000000007" style="font: normal 2.7555528000000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="1.0891513043478263" opacity="1" fill="#6d98ba" stroke="none" transform="translate(548, 368) rotate(12)">sites</text>
+<text x="-4.43048095703125" y="0.27555528000000007" style="font: normal 2.7555528000000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="1.0891513043478263" opacity="1" fill="#c1d4f2" stroke="none" transform="translate(488, 406)">PayTM</text>
+<text x="-3.99407958984375" y="0.27555528000000007" style="font: normal 2.7555528000000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="1.0891513043478263" opacity="1" fill="#3669a2" stroke="none" transform="translate(480, 394)">shops</text>
+<text x="-3.305908203125" y="0.27555528000000007" style="font: normal 2.7555528000000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="1.0891513043478263" opacity="1" fill="#edecf2" stroke="none" transform="translate(550, 400) rotate(-12)">Dont</text>
+<text x="-2.7540283203125" y="0.27555528000000007" style="font: normal 2.7555528000000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="1.0891513043478263" opacity="1" fill="#edecf2" stroke="none" transform="translate(506, 402)">also</text>
+<text x="-2.5928955078125" y="0.27555528000000007" style="font: normal 2.7555528000000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="1.0891513043478263" opacity="1" fill="#edecf2" stroke="none" transform="translate(512, 428) rotate(-12)">N/A</text>
+</svg>
