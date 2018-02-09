@@ -407,6 +407,7 @@ SIDEBAR + RIGHT COLUMN
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 20px;
+  margin-top:3%;
 }
 @media (min-width: 1200px) {
   .content-column-content {
@@ -2207,12 +2208,16 @@ a.list-group-item.active > .badge,
   position: relative;
   color: #202120;
   bottom: 0;
-  padding: 10px 10px;
+  right:0;
+
+  padding: 5px 5px;
   text-align: center;
   /*font-weight:bold;*/
-  margin-top:10px;
-  /*background-color:#f4f4f4;*/
-  /*font-family: "Georgia", "Times New Roman", Times, serif;*/
+  font-style:italic;
+
+  /*margin-top:-10px;
+  background-color:#f4f4f4;*/
+  font-family: "Georgia", "Times New Roman", Times, serif;
 }
 
 
@@ -2255,3 +2260,7 @@ a.list-group-item.active > .badge,
     max-width: 100%;
   }
 }
+
+/*.caption-effect{
+  font-weight:bold;
+}*/
