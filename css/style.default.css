@@ -394,6 +394,7 @@ SIDEBAR + RIGHT COLUMN
 .content-column {
   padding-top: 40px;
   background-color:#ffffff;
+  left: 25%;
 }
 .content-column.white-background {
   background: #fff;
@@ -2162,6 +2163,8 @@ a.list-group-item.active > .badge,
 #sidebar{
   background-color: #202120;
   color: #f4f4f4;
+  position: fixed;
+  z-index: 1;
 }
 
 .sidebar-heading a{
