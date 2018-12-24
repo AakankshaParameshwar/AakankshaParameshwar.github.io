@@ -1,7 +1,7 @@
 masonry();
 
 $(function () {
-
+    //hoverEffect();
     offCanvas();
     lightbox();
     carousels();
@@ -11,6 +11,15 @@ $(function () {
 });
 
 /* for demo purpose only - can be deleted */
+
+/*function hoverEffect(){
+  $(".box-masonry-text").hide();
+
+  $(".box-masonry-image").hover(function(){
+    $(this).find(".img-responsive").hide();
+    $(this).find(".box-masonry-text").show();
+  });
+}*/
 
 function demo() {
 
@@ -65,7 +74,7 @@ function carousels() {
 	singleItem: true,
 	afterInit: ''
     });
-   
+
 }
 
 /* =========================================
