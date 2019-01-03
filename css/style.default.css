@@ -337,11 +337,29 @@ SIDEBAR + RIGHT COLUMN
 }
 .sidebar-heading {
   font-size: 18px;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.05em;
+}
+.sidebar-heading img{
+  width: 80px;
+}
+.myHeadings p{
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  color: #ffffff;
+  display: block;
+  margin-bottom:5px;
+}
+.myHeadings{
+  display: inline-block;
+  vertical-align:middle;
 }
 
 .sidebar-tag{
   text-transform: uppercase;
+  font-weight: 100;
+  font-size: 14px;
+  margin:0;
 }
 
 .sidebar-heading a {
@@ -350,6 +368,7 @@ SIDEBAR + RIGHT COLUMN
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
+  display: inline-block;
 }
 
 .sidebar-heading a:hover {
@@ -365,7 +384,7 @@ SIDEBAR + RIGHT COLUMN
 .sidebar-menu {
   list-style-type: none;
   padding-left: 20px;
-  margin-bottom: 40px;
+  margin: 50px 0px;
 }
 .sidebar-menu li {
   margin-bottom: 5px;
