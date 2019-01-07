@@ -454,6 +454,7 @@ SIDEBAR + RIGHT COLUMN
 
 .content-column-content p.lead, .text-block1 p {
   color: #555555;
+  font-weight:400;
 }
 .content-column-content ul li {
   list-style-type: none;
@@ -2072,7 +2073,7 @@ p {
 }
 @media (min-width: 768px) {
   .lead {
-    font-size: 24px;
+    font-size: 20px;
   }
 }
 .text-small {
